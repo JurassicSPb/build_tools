@@ -1,0 +1,4 @@
+rootProject.name = 'build_tools'
+include 'application'
+include 'test'
+
